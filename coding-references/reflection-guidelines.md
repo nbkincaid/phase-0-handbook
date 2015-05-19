@@ -15,3 +15,7 @@ Use these questions as a guideline. Choose the questions that will help you refl
 * How confident are you with each of the Learning Competencies? 
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
+
+I think writing pseudocode is very important when programming alone, but even more important when pair programming. I think it is best to determine the direction for the entire program before beginning to write any code and pseudocode is perfect for this. Writing pseudocode helps to identify all the steps required, the order that they need to happen and doing this before the code is written makes it much easier. Doing a complete job in pseudocode also makes writing the code very straight forward and simple because much of the logic and syntax has been separated from each other. I think this was a great challenge. 
+
+Also, it's good to know if you're modifying the existing object or a new object. 
